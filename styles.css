@@ -1,0 +1,10 @@
+div {
+    font-family: "Arial";
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
